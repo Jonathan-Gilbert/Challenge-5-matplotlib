@@ -1,0 +1,1 @@
+Code partially taken from https://github.com/benanza/Pymaceuticals
